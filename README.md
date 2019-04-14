@@ -1,4 +1,4 @@
 # RA-Demo
 Demo for DevOps discussion
 
-the quick fox jumped over the dog
+the quick RED fox jumped over the dog
